@@ -1,0 +1,6 @@
+interface:
+  display_name: "薯条配图"
+  short_description: "为中文文章生成带薯条白色小狗IP的彩铅正文配图"
+  default_prompt: "Use $shupuppy-illustrations 给这篇文章配一张薯条插图。"
+policy:
+  allow_implicit_invocation: true
